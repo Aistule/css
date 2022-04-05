@@ -1,0 +1,50 @@
+h1, h2, h3 {
+    color: darkslateblue;
+    margin: 0;
+}
+
+h1{
+    color: grey;
+    margin: 0;
+}
+
+.greentea {
+    color: greenyellow;
+}
+
+.ice{
+    color: aqua;
+}
+
+.blue{
+    color: blueviolet;
+}
+
+.blast{
+    color: red;
+}
+
+#berry{
+    color: pink;
+}
+
+.header{
+    background-color: goldenrod;
+}
+
+.content{
+    background-color: tomato;
+}
+
+.footer{
+    background-color: silver;
+}
+
+.textbg{
+    background-color: yellow;
+}
+
+p img{
+    width: 50px;
+}
+
